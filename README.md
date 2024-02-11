@@ -3,3 +3,4 @@
 
 para ejecuta el sistema debes poner:
 npm install teact 
+ sistema de registro 2
